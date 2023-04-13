@@ -6,7 +6,8 @@ The work & projects found in this repo belongs to myself - [Andre Coetzer](https
 
 <br />
 
-### Repository Description
+#### REPOSITORY DESCRIPTION
+_General description of the repository_
 
 <br />
 
@@ -16,6 +17,18 @@ _If you would like to code along or mentor me, please feel free to reach out to 
 
 <br />
 
-### Project List
+#### MENTORS & CONTRIBUTORS
+_Here are all the mentors and or contributors to this repository_
 
-*Currently Empty*
+<br />
+
+* _List of users is currently empty_
+
+<br />
+
+#### PROJECT LIST
+_Here are all the mentors and or contributors to this repository_
+
+<br />
+
+* _List of projects is currently empty_
